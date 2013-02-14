@@ -2,6 +2,7 @@ IB_RPyC_PY
 ==========
 
 Interactive Brokers and CPython bridge using Jython and RPyC
+Contact: androfx@seznam.cz
 
 Use:
 Install http://rpyc.sourceforge.net/ for CPython and Jython
